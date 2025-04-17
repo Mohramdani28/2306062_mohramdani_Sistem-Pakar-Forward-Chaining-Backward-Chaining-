@@ -1,0 +1,1 @@
+# 2306062_mohramdani_Sistem-Pakar-Forward-Chaining-Backward-Chaining-
